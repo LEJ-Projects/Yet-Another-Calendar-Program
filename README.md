@@ -1,2 +1,2 @@
 # Yet-Another-Calendar-Program
-This is yet another calendar program for the TRS-80 Model 100 and NEC PC-8201A.
+This is yet another calendar program for the TRS-80 Model 100 and NEC PC-8201A.   It will print a calendar for any year specified between 1900 and 2099.   The months are arranged in a 3 x 4 block.    The year will be printed in large letters made up of a 5x7 block.   Everything is done in ASCII.    The default output is RS-232 at 1200 baud, but the user can also specify a file name and a .DO file will be created that can be printed later.   For the TRS-80 Model 100, the user can specify LPT: and the output will go to the printer. More detail on this program can be found in the pdf file.
